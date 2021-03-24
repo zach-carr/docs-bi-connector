@@ -34,7 +34,7 @@ business intelligence tools.
    :align: center
    :alt: Diagram showing that other BI tools communicate with the DSN, which communicates with MongoDB's BI Connector, which in turn communicates with the MongoDB database.
 
-System Components
+System Components 
 -----------------
 
 A complete BI system includes the following components:
